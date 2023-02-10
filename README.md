@@ -13,7 +13,7 @@
     </ul>
     <h3><b>Where you can find me (for now):</h3>
     <ul>
-      <li><a href="https://www.linkedin.com/in/jos%C3%A9-alfredo-mart%C3%ADnez-berm%C3%BAdez-182734224/">Linkedin</li>
+      <li><a href="https://www.linkedin.com/in/jos%C3%A9-alfredo-mart%C3%ADnez-berm%C3%BAdez-182734224/"><img src="/Images/Linkedin.jpeg" height="30">&nbsp;Linkedin</li>
     </ul>
 </div> 
 
