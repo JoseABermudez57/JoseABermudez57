@@ -22,5 +22,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JoseABermudez57&theme=dark&show_icons=true">&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseABermudez57&theme=dark&show_icons=true">
 </div><br>
-
-<p align="center"><img src="https://github.com/JoseABermudez57/JoseABermudez57/blob/output/github-contribution-grid-snake.svg"></p>
