@@ -19,6 +19,8 @@
 
 <div align="center">
   <h3><b>My stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseABermudez57&theme=dark&show_icons=true">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseABermudez57&theme=dark&show_icons=true">
+  <div style="display: flex ; align-items: center; justify-content: center; ">
+    <img style="padding-right: 50px" src="https://github-readme-stats.vercel.app/api?username=JoseABermudez57&theme=dark&show_icons=true">&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseABermudez57&theme=dark&show_icons=true">
+  </div>
 </div><br>
