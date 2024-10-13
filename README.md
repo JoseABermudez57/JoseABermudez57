@@ -1,10 +1,12 @@
 <!-- If this README.md helps you to create your own, leave a star :3  -->
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1>𝗛𝗶! 𝗜'𝗺 <𝗝𝗼𝘀𝗲/> 👨🏻‍💻</h1></summary>
-  </ul>
+<div align="center">
+  <a href="https://github.com/JoseABermudez57/"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=41&duration=2000&pause=5000&color=08B11D&center=true&multiline=true&width=460&lines=Hi+World!+I'm+%3CJose%2F%3E+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
+
+<!-- I got the above from the following page: https://readme-typing-svg.demolab.com/demo/ -->
+
+###
 
 <!-- About Me -->
 
