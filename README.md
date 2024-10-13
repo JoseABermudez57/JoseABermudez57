@@ -67,10 +67,10 @@ I am committed to continuous learning and at every stage of my career I look for
 
 <!-- Stats section -->
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2><📋>My Stats<📋/></h2></summary>
-  </ul>
+<div align="center">
+
+## <📋>My Stats</📋>
+  
 </div>
 
 <div align="center">
@@ -80,10 +80,10 @@ I am committed to continuous learning and at every stage of my career I look for
 
 <!-- Contact section -->
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2><📧>Contact Me<📧/></h2></summary>
-  </ul>
+<div align="center">
+
+  ## <📧>Contact</📧>
+  
 </div>
 
 <div align="center">
