@@ -10,7 +10,7 @@
 
 <!-- About Me -->
 
-<p><b>A software development student focused on web and mobile development, I am looking for opportunities to gain experience in microservices development, web and mobile application logic.
+<p><b>A software development focused on web and mobile development, I am looking for opportunities to gain experience in microservices development, web and mobile application logic.
 
 I am committed to continuous learning and at every stage of my career I look for ways to improve and learn from experience 🙇. I am not satisfied with incomplete or unsatisfactory results 🕵️; I am constantly looking to grow, broaden my horizons, share my knowledge and apply it in projects that allow me to continue developing.</b></p>
 
